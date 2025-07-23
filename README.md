@@ -1,2 +1,7 @@
 # ArduinoProyects
-Proyectos de arduino
+Proyectos de arduino  
+
+En este repositorio habran proyectos de arduino de mi autoria Alex Tintor.  
+
+- Contacto
+Correo: tintor1217@gmail.com
