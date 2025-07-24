@@ -5,7 +5,7 @@ Video TikTok: ...
 Este proyecto consiste en un carro controlado por un control remoto.  
 El carro usa como "cerebro" un micro controlador ESP32, y el control remoto usa como base un ESP8266.    
 
-¿Qué es un ESP32? El ESP32 es un microcontrolador programable con el IDE Arduino (se descarga en computadoras). Estos micro-controladores o también conocidos como "Placlas Programables" son unas mini computadoras MUY primitivas, pero tiene varias "curiosidades" interesantes. Estos se usan para proyectos electronicos, su uso varia desde prender y apagar un led hasta cosas inimaginables. Estos micro-controladores tienen un precio aproximado de $10 dolares, estos necesitan una alimentación de 5 volts. De igual manera el ESP8266 es un micro-controlador pero con distintas caracteristicas.    
+¿Qué es un ESP32? El ESP32 es un micro-controlador programable con el IDE Arduino (se descarga en computadoras). Estos micro-controladores o también conocidos como "Placlas Programables" son unas mini computadoras MUY primitivas, pero tiene varias "curiosidades" interesantes. Estos se usan para proyectos electronicos, su uso varia desde prender y apagar un led hasta cosas inimaginables. Estos micro-controladores tienen un precio aproximado de $10 dolares, estos necesitan una alimentación de 5 volts. De igual manera el ESP8266 es un micro-controlador pero con distintas caracteristicas.    
 
 - Carro:
 El ESP32 dentro del carro crea una red WIFI, es decir este funciona como host y recibe datos ahi mismo.
